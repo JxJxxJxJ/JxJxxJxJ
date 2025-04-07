@@ -26,7 +26,7 @@
   <details>
     <summary>
       <samp>
-        <b>More Info</b>
+        <b>Info</b>
       </samp>
     </summary>
     <br />
