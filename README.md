@@ -33,9 +33,11 @@
     <h2></h2>
     <p align="center">
       <samp>
-        [ <a href="https://github.com/JxJxxJxJ/kibou-">dotfiles</a> .
+        [ 
+        <a href="https://github.com/JxJxxJxJ/kibou-">dotfiles</a> .
         <a href="TODO">labs viejos</a> .
-        <a href="https://discord.com/users/jxjxxjxj">contact</a> .
+        <a href="https://discord.com/users/jxjxxjxj">discord</a>
+        ]
       </samp>
     </p>
     <h2></h2>
