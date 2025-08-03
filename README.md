@@ -13,7 +13,7 @@
       </b>
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&duration=3000&pause=150&center=true&vCenter=true&repeat=false&width=435&lines=o.o"
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&duration=3000&pause=3000&color=29E7F7&center=true&vCenter=true&width=435&lines=o.o"
         alt="Typing SVG"
       />
     </samp>
